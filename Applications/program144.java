@@ -1,0 +1,1 @@
+// solve program 143 use diff functions
