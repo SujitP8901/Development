@@ -16,10 +16,8 @@ public:
                 mapping = mapping + arr[str[j]-'a'];
             }
             
-            if(m.find(mapping) == m.end())
-            {
-                m[mapping]++;
-            }
+            m[mapping]++;
+            
             
             mapping = "";
         }
