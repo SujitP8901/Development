@@ -15,7 +15,6 @@ public:
             {
                 actualIndex++;
                 nums[actualIndex] = nums[i];
-                // actualIndex++;
             }
         }
         
